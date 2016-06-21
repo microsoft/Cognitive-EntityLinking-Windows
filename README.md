@@ -1,24 +1,21 @@
-Microsoft Cognitive Services Entity Linking Client SDK
-========================================
+# Microsoft Entity Linking Intelligence Service: Windows Client Library
+This repo contains the Windows client library for the Microsoft Entity Linking Intelligence Service, part of [Cognitive Services](https://www.microsoft.com/cognitive-services).
+* [Learn about the API](https://www.microsoft.com/cognitive-services/en-us/entity-linking-intelligence-service)
+* [View the documentation](https://www.microsoft.com/cognitive-services/en-us/entitylinking-api/documentation/overview)
+* [More Entity Linking SDKs & Samples]()
 
-This repo contains the client libraries that demonstrate Microsoft’s cloud-based entity linking algorithms to
-detects all entities mentioned within the input text, and then subsequently links them to each reference point.
-See the tech in action on [our demo page](<https://www.microsoft.com/cognitive-services/en-us/entity-linking-intelligence-service) or
-learn more about the API with [our documentation](<https://github.com/Microsoft/ProjectOxford-Documentation/blob/master/Content/en-us/EntityLinking/Home.md>).
 
-Contributing
-============
-We welcome contributions and are always looking for new SDKs, input, and
-suggestions. Feel free to file issues on the repo and we'll address them as we can. You can also learn more about how you can help on the [Contribution
-Rules & Guidelines](</CONTRIBUTING.md>).
+## Contributing
+We welcome contributions. Feel free to file issues and pull requests on the repo and we'll address them as we can. Learn more about how you can help on our [Contribution Rules & Guidelines](</CONTRIBUTING.md>). 
 
-For questions, feedback, or suggestions about Microsoft Cognitive Services, feel free to reach out to us directly.
+You can reach out to us anytime with questions and suggestions using our communities below:
+ - **Support questions:** [StackOverflow](<https://stackoverflow.com/questions/tagged/microsoft-cognitive>)
+ - **Feedback & feature requests:** [Cognitive Services UserVoice Forum](<https://cognitive.uservoice.com>)
 
--   [Cognitive Services UserVoice Forum](<https://cognitive.uservoice.com>)
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-License
-=======
 
+## License
 All Microsoft Cognitive Services SDKs and samples are licensed with the MIT License. For more details, see
 [LICENSE](</LICENSE.md>).
 
