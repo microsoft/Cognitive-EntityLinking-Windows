@@ -1,4 +1,4 @@
-# Microsoft Entity Linking Intelligence Service: Windows Client Library
+# Microsoft Entity Linking Intelligence Service: Windows Client Library & Sample
 This repo contains the Windows client library for the Microsoft Entity Linking Intelligence Service, part of [Cognitive Services](https://www.microsoft.com/cognitive-services).
 * [Learn about the Entity Linking Intelligence Service](https://www.microsoft.com/cognitive-services/en-us/entity-linking-intelligence-service)
 * [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/entitylinking-api/documentation/overview)
