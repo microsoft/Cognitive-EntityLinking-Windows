@@ -2,7 +2,7 @@
 This repo contains the Windows client library for the Microsoft Entity Linking Intelligence Service, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), formerly known as Project Oxford.
 * [Learn about the Entity Linking Intelligence Service](https://www.microsoft.com/cognitive-services/en-us/entity-linking-intelligence-service)
 * [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/entitylinking-api/documentation/overview)
-* [Find more SDKs & Samples]()
+* [Find more SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=entity%20linking)
 
 
 ## Contributing
