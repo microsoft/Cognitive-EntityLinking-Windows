@@ -85,7 +85,7 @@ namespace Microsoft.ProjectOxford.EntityLinking
         private static HttpClient s_httpClient = new HttpClient();
         private readonly HttpClient _httpClient;
 
-        private static string s_apiRoot = "https://api.projectoxford.ai";
+        private static string s_apiRoot = "https://westus.api.cognitive.microsoft.com/";
         private readonly string _serviceUrl;
         #endregion
 
